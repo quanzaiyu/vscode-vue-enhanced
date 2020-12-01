@@ -1,0 +1,8 @@
+node_modules
+.vscode-test/
+*.vsix
+_refs/
+test/
+yarn-error.log
+out/
+dist/
