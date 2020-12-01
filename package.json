@@ -2,7 +2,7 @@
     "name": "vscode-vue-enhanced",
     "displayName": "Vue Enhanced",
     "description": "All useful vue features in one",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "icon": "images/icon.png",
     "engines": {
         "vscode": "^1.51.0"
